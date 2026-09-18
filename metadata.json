@@ -1,0 +1,7 @@
+{
+  "name": "Polar Workout Generator",
+  "description": "Generate and edit structured Polar Flow Phased Target running workouts from plain language descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
